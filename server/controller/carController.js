@@ -22,7 +22,7 @@ exports.homepage = async (req, res) => {
 
     const vehicles = { latest, audi, mercedes, rolls_royce };
 
-    res.render("index", { title: "Car Showroom - Home", categories, vehicles });
+    res.render("index", { title: "Rohan's Ride_Realm - Home", categories, vehicles });
   } catch (error) {
     res.status(500).send("Error is" + error);
   }
