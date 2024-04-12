@@ -32,5 +32,5 @@ const routes = require('./server/routes/carRoutes.js');
 app.use('/',routes)
 
 app.listen(port, ()=>{
-    console.log(`Server is listening to ${port}`);
+    // console.log(`Server is listening to ${port}`);
 })
