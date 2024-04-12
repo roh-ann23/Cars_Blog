@@ -1,0 +1,354 @@
+[
+  {
+    "_id": {
+      "$oid": "674dd8d3c59f69c8ebcc1907"
+    },
+    "name": "Audi A3",
+    "description": "The Audi A3 epitomizes compact luxury, blending high performance with cutting-edge technology and premium comfort.",
+    "email": "support@audia3.com",
+    "functionality": [
+      "High Performance",
+      "Advanced Infotainment System",
+      "Fuel Efficiency",
+      "Luxurious Interiors"
+    ],
+    "category": "Audi",
+    "image": "Audi-A3.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1a2fc34f76d9edc28b01"
+    },
+    "name": "Audi A4",
+    "description": "The Audi A4 offers a perfect mix of elegance and innovation, with its sophisticated design, advanced technology, and superior driving dynamics.",
+    "email": "support@audia4.com",
+    "functionality": [
+      "Enhanced Driving Dynamics",
+      "Cutting-edge Safety Features",
+      "Intuitive Infotainment System",
+      "Elegant Design"
+    ],
+    "category": "Audi",
+    "image": "Audi-A4.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1b5e467f89dafe317b02"
+    },
+    "name": "Audi A5",
+    "description": "With its sporty and elegant appearance, the Audi A5 captures attention while offering a thrilling driving experience and luxury.",
+    "email": "support@audia5.com",
+    "functionality": [
+      "Sporty Design",
+      "Powerful Performance",
+      "Innovative Technology",
+      "Superior Comfort"
+    ],
+    "category": "Audi",
+    "image": "Audi-A5.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1c83d89e76daec412f03"
+    },
+    "name": "Audi A6",
+    "description": "The Audi A6 sets the standard for luxury sedans with its advanced technology, dynamic performance, and sophisticated design.",
+    "email": "support@audia6.com",
+    "functionality": [
+      "Advanced Navigation System",
+      "Powerful Engine Options",
+      "Luxurious Comfort",
+      "Top-tier Safety Features"
+    ],
+    "category": "Audi",
+    "image": "Audi-A6.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1d9ab45e78dcfea42804"
+    },
+    "name": "Audi A7",
+    "description": "Combining the sportiness of a coupe and the elegance of a sedan, the Audi A7 stands out with its unique design and impressive performance.",
+    "email": "support@audia7.com",
+    "functionality": [
+      "Sleek Design",
+      "High Performance",
+      "State-of-the-Art Technology",
+      "Exceptional Comfort"
+    ],
+    "category": "Audi",
+    "image": "Audi-A7.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1eacdefa98dcfecd4905"
+    },
+    "name": "Audi Q5",
+    "description": "The Audi Q5 delivers a blend of performance, style, and versatility, making it the ideal SUV for any adventure.",
+    "email": "support@audiq5.com",
+    "functionality": [
+      "Dynamic Performance",
+      "Versatile Design",
+      "Advanced Driver Assistance",
+      "Luxury Interiors"
+    ],
+    "category": "Audi",
+    "image": "Audi-Q5.jpg",
+    "__v": 0
+  },
+
+  {
+    "_id": {
+      "$oid": "674e1f7fdfeab8dcfecb2806"
+    },
+    "name": "Rolls-Royce Cullinan",
+    "description": "The Rolls-Royce Cullinan redefines luxury SUVs with its unparalleled opulence, supreme comfort, and effortless performance.",
+    "email": "support@rollsroycecullinan.com",
+    "functionality": [
+      "Unmatched Luxury",
+      "Supreme Comfort",
+      "Effortless Performance",
+      "State-of-the-Art Technology"
+    ],
+    "category": "Rolls_Royce",
+    "image": "Rolls-Royce-Cullinan.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1f7fdfeab8dcfecb2807"
+    },
+    "name": "Rolls-Royce Ghost",
+    "description": "The Rolls-Royce Ghost epitomizes refined luxury, offering an unparalleled combination of elegance, comfort, and performance.",
+    "email": "support@rollsroyceghost.com",
+    "functionality": [
+      "Exquisite Luxury",
+      "Unmatched Comfort",
+      "Exceptional Performance",
+      "Cutting-Edge Technology"
+    ],
+    "category": "Rolls_Royce",
+    "image": "Rolls-Royce-Ghost.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1f7fdfeab8dcfecb2808"
+    },
+    "name": "Rolls-Royce Phantom",
+    "description": "The Rolls-Royce Phantom represents the pinnacle of automotive luxury, combining timeless elegance, unmatched comfort, and peerless performance.",
+    "email": "support@rollsroycephantom.com",
+    "functionality": [
+      "Timeless Luxury",
+      "Peerless Comfort",
+      "Unrivalled Performance",
+      "State-of-the-Art Technology"
+    ],
+    "category": "Rolls_Royce",
+    "image": "Rolls-Royce-Phantom.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1f7fdfeab8dcfecb2809"
+    },
+    "name": "Rolls-Royce Wraith",
+    "description": "The Rolls-Royce Wraith exemplifies grand touring luxury, offering a perfect blend of dynamism, comfort, and sophistication.",
+    "email": "support@rollsroycewraith.com",
+    "functionality": [
+      "Dynamic Luxury",
+      "Supreme Comfort",
+      "Exhilarating Performance",
+      "Cutting-Edge Technology"
+    ],
+    "category": "Rolls_Royce",
+    "image": "Rolls-Royce-Wraith.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1f7fdfeab8dcfecb280a"
+    },
+    "name": "Rolls-Royce Dawn",
+    "description": "The Rolls-Royce Dawn embodies the spirit of open-top grand touring, delivering unparalleled luxury, comfort, and performance.",
+    "email": "support@rollsroycedawn.com",
+    "functionality": [
+      "Open-Top Luxury",
+      "Sumptuous Comfort",
+      "Exhilarating Performance",
+      "Cutting-Edge Technology"
+    ],
+    "category": "Rolls_Royce",
+    "image": "Rolls-Royce-Dawn.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1f7fdfeab8dcfecb2810"
+    },
+    "name": "Mercedes-Benz A-Class",
+    "description": "The Mercedes-Benz A-Class combines compact agility with luxurious comfort, setting new standards in its class.",
+    "email": "support@mercedesbenza.com",
+    "functionality": [
+      "Compact Agility",
+      "Luxurious Comfort",
+      "Innovative Technology",
+      "Efficient Performance"
+    ],
+    "category": "Mercedes",
+    "image": "Mercedes-Benz-A-Class.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1f7fdfeab8dcfecb2811"
+    },
+    "name": "Mercedes-Benz C-Class",
+    "description": "The Mercedes-Benz C-Class offers a perfect blend of elegance, performance, and innovation, defining the luxury sedan segment.",
+    "email": "support@mercedesbenzc.com",
+    "functionality": [
+      "Elegant Design",
+      "Dynamic Performance",
+      "Advanced Technology",
+      "Refined Comfort"
+    ],
+    "category": "Mercedes",
+    "image": "Mercedes-Benz-C-Class.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1f7fdfeab8dcfecb2812"
+    },
+    "name": "Mercedes-Benz E-Class",
+    "description": "The Mercedes-Benz E-Class epitomizes sophistication and innovation, delivering a superior driving experience in every aspect.",
+    "email": "support@mercedesbenze.com",
+    "functionality": [
+      "Sophisticated Design",
+      "Innovative Technology",
+      "Exceptional Comfort",
+      "Dynamic Performance"
+    ],
+    "category": "Mercedes",
+    "image": "Mercedes-Benz-E-Class.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1f7fdfeab8dcfecb2813"
+    },
+    "name": "Mercedes-Benz S-Class",
+    "description": "The Mercedes-Benz S-Class sets the benchmark for luxury sedans, offering unparalleled comfort, innovation, and performance.",
+    "email": "support@mercedesbenzs.com",
+    "functionality": [
+      "Unmatched Luxury",
+      "Cutting-Edge Technology",
+      "Supreme Comfort",
+      "Exceptional Performance"
+    ],
+    "category": "Mercedes",
+    "image": "Mercedes-Benz-S-Class.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1f7fdfeab8dcfecb2814"
+    },
+    "name": "Mercedes-Benz CLA-Class",
+    "description": "The Mercedes-Benz CLA-Class combines sleek design with exhilarating performance, offering a captivating driving experience.",
+    "email": "support@mercedesbenzcla.com",
+    "functionality": [
+      "Sleek Design",
+      "Exhilarating Performance",
+      "Advanced Technology",
+      "Sporty Comfort"
+    ],
+    "category": "Mercedes",
+    "image": "Mercedes-Benz-CLA-Class.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1f7fdfeab8dcfecb2815"
+    },
+    "name": "Bugatti La Voiture Noire",
+    "description": "The Bugatti La Voiture Noire represents the epitome of automotive exclusivity, blending breathtaking design with unparalleled performance.",
+    "email": "support@bugattilavoiturenoire.com",
+    "functionality": [
+      "Exclusivity Redefined",
+      "Breathtaking Design",
+      "Unparalleled Performance",
+      "State-of-the-Art Engineering"
+    ],
+    "category": "Bugatti",
+    "image": "Bugatti-La-Voiture-Noire.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1f7fdfeab8dcfecb2816"
+    },
+    "name": "Bugatti Veyron",
+    "description": "The Bugatti Veyron is a masterpiece of engineering and design, setting the standard for hypercars with its unparalleled performance and iconic styling.",
+    "email": "support@bugattiveyron.com",
+    "functionality": [
+      "Engineering Marvel",
+      "Unrivaled Performance",
+      "Iconic Styling",
+      "Cutting-Edge Technology"
+    ],
+    "category": "Bugatti",
+    "image": "Bugatti-Veyron.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1f7fdfeab8dcfecb2817"
+    },
+    "name": "Ferrari 488 GTB",
+    "description": "The Ferrari 488 GTB is a true masterpiece of engineering and design, offering exhilarating performance and unparalleled driving dynamics.",
+    "email": "support@ferrari488gtb.com",
+    "functionality": [
+      "Engineering Marvel",
+      "Exhilarating Performance",
+      "Precise Handling",
+      "Iconic Styling"
+    ],
+    "category": "Ferrari",
+    "image": "Ferrari-488-GTB.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "674e1f7fdfeab8dcfecb2818"
+    },
+    "name": "Ferrari F8 Tributo",
+    "description": "The Ferrari F8 Tributo pays homage to Ferrari's rich legacy while pushing the boundaries of performance, delivering an exhilarating driving experience.",
+    "email": "support@ferrarif8tributo.com",
+    "functionality": [
+      "Legacy Tribute",
+      "Exhilarating Performance",
+      "Agile Handling",
+      "Innovative Design"
+    ],
+    "category": "Ferrari",
+    "image": "Ferrari-F8-Tributo.jpg",
+    "__v": 0
+  }
+]
+
+
+
+
+
+
+
+
+
+
+

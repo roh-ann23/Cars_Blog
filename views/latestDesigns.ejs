@@ -1,0 +1,35 @@
+
+
+<section class="pb-4 pt-4">
+    <div class="d-flex mb-4 align-items-center">
+        <h2>Latest Designs</h2>
+        <!-- <a href="/categories/rolls_royce"  class="ms-auto">View More</a> -->
+    </div>
+
+
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="/">Home</a></li>
+          <li class="breadcrumb-item active" aria-current="page">New manufactured</li>
+        </ol>
+      </nav>
+
+
+
+    <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+
+        <% if(cars != '') { %>
+           <% cars.forEach(function(car,index){ %>
+        <a href="/cars/<%- car._id %>" class="col text-center category__link">
+            <div class="category__img category__img--large border border-dark shadow">
+                <img src="/uploads/<%- car.image %>" alt="<%- car.name %>" loading="lazy">
+            </div>
+            <div class="pt-1"> <%- car.name %></div>
+    
+        </a>
+    <% }) %>
+   <% } else { %>
+    <p> The End..</p>
+    <% } %>
+    </div>
+</section>

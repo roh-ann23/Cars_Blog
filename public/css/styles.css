@@ -1,0 +1,81 @@
+
+
+:root{
+    --bs-font-sans-serif:'rubik',sans-serif
+}
+.container-xxl{
+    max-width: 1200px;
+}
+
+body{
+    background-image: url('/img/bg1-img.jpg');
+    /* background-image: url('/img/bg11111.jpg'); */
+    background-color: rgb(243, 243, 243);
+    /* background-position: center; */
+    background-size: contain;
+    /* background: linear-gradient(45deg, #1d1a39, #451952, #662549); */
+    /* background: linear-gradient(45deg, #0a0a0a, #3a4452); */
+
+}
+a{
+    color: var(--bs-dark);
+}
+
+.category__link{
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    transition: 250ms all;
+}
+
+.category__link:hover{
+    transform: scale(1.1);
+}
+
+.category__img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    margin-bottom: 10px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16);
+    overflow: hidden;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.category__img--large{
+    height: 300px;
+    /* width: ; */
+}
+
+
+.category__img img{
+    width: 100%;
+    object-fit: cover;
+}
+
+.submitImg{
+    transition: 250ms all;
+}
+.submitImg:hover{
+    transform: scale(1.1);
+}
+
+
+/* hero_img */
+
+.hero_img{
+    transition: 250ms all;
+}
+.hero_img:hover{
+    transform: scale(1.1);
+}
+
+/* .rohan-j{
+    background: linear-gradient(45deg, #0a0a0a, #3a4452);
+} */
+
+/* .logo-img{
+
+} */

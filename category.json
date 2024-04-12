@@ -1,0 +1,45 @@
+
+
+[{
+    "_id": {
+      "$oid": "614dd75a9693912a00f0514d"
+    },
+    "name": "Audi",
+    "image": "Audi.png",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "614dd75a9693912a00f0514e"
+    },
+    "name": "Mercedes",
+    "image": "Mercedes.jpg",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "614dd75a9693912a00f0514c"
+    },
+    "name": "Rolls_Royce",
+    "image": "Rolls_Royce.jpg",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "614dd75a9693912a00f0514f"
+    },
+    "name": "Bugatti",
+    "image": "Bugatti.jpg",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "614dd75a9693912a00f05150"
+    },
+    "name": "Ferrari",
+    "image": "ferrari.jpg",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "614dd75a9693912a00f05151"
+    },
+    "name": "Thar",
+    "image": "Thar.jpg",
+    "__v": 0
+  }]
