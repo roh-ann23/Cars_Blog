@@ -122,7 +122,7 @@ The Car data model represents information about individual car designs.
 ```json
 {
   "name": "Audi A6",
-  "description": "The Audi A6 sets the standard for luxury sedans with its advanced technology, dynamic performance, and sophisticated design.
+  "description": "The Audi A6 sets the standard for luxury sedans with its advanced technology, dynamic performance, and sophisticated design,
    Details:
       * Year: 2024
       * Mileage: 23 MPG 
