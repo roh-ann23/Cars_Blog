@@ -192,3 +192,7 @@ npm start
 - Use the provided endpoints to manage categories, cars, and contact submissions.
 - Make HTTP requests to the respective endpoints using tools like Postman or integrate them into your front-end application.
 
+### Contributors
+
+- [Rohan Jadhav](https://github.com/roh-ann23)
+
