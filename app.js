@@ -33,5 +33,5 @@ app.use('/',routes)
 
 app.listen(port, ()=>{
     // console.log(`Server is listening to ${port}`);
-   `Server is running ${process.env.DEV_MODE} mode on port ${port} `
+   // `Server is running ${process.env.DEV_MODE} mode on port ${port} `
 })
