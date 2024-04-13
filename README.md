@@ -8,7 +8,7 @@ Car Enthusiast Hub is a comprehensive web platform dedicated to providing users 
 
 ## Live Demo
 
-You can view a live demo of the application here: [https://cars-blog.onrender.com](#)
+You can view a live demo of the application here: https://cars-blog.onrender.com
 
 
 ## Features
