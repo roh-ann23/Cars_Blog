@@ -1,4 +1,6 @@
-# Car Enthusiast Hub
+# Car Enthusiast Hub : Rohan's Ride Realm
+
+### The Node Car Showroom application is a Node.js-based system developed using the Express.js framework, with MongoDB as the chosen database. This application manages information related to categories of cars, individual car designs, and user contacts. It provides endpoints to perform CRUD operations for categories, cars, and user contacts.
 
 ## Overview
 
@@ -23,8 +25,6 @@ Car Enthusiast Hub is a comprehensive web platform dedicated to providing users 
 - **MongoDB:** NoSQL database for storing car information.
 - **EJS:** Templating engine for generating HTML markup with JavaScript.
 
-
-### The Node Car Showroom application is a Node.js-based system developed using the Express.js framework, with MongoDB as the chosen database. This application manages information related to categories of cars, individual car designs, and user contacts. It provides endpoints to perform CRUD operations for categories, cars, and user contacts.
 
 ## Endpoints
 
