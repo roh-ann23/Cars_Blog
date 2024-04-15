@@ -1,7 +1,7 @@
 
 
 
-# ![car_logo](https://github.com/roh-ann23/Cars_Blog/assets/158121284/03d19041-7792-495e-aa42-75b15b641a1b hieght:100px; width : 100px;) Car Enthusiast Hub : Rohan's Ride Realm
+#  Car Enthusiast Hub : Rohan's Ride Realm
 
 #### The Node Car Showroom application is a Node.js-based system developed using the Express.js framework, with MongoDB as the chosen database. This application manages information related to categories of cars, individual car designs, and user contacts. It provides endpoints to perform CRUD operations for categories, cars, and user contacts.
 
