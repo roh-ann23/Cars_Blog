@@ -29,6 +29,8 @@ You can view a live demo of the application here: https://cars-blog.onrender.com
 - **Express:** Web application framework for Node.js.
 - **MongoDB:** NoSQL database for storing car information.
 - **EJS:** Templating engine for generating HTML markup with JavaScript.
+- **Bootstrap:** Frontend framework for building responsive and mobile-first websites with HTML, CSS, and JavaScript.
+
 
 
 ## Endpoints
