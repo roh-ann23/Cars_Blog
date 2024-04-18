@@ -32,5 +32,6 @@ const routes = require('./server/routes/carRoutes.js');
 app.use('/',routes)
 
 app.listen(port, ()=>{
-  `Server is running ${process.env.DEV_MODE} mode on port ${PORT} `
+ 
+ console.log( `Server is running ${process.env.DEV_MODE} mode on port ${port} `);
 })

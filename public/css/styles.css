@@ -66,6 +66,8 @@ a{
 /* hero_img */
 
 .hero_img{
+    /* height: 400px;
+    width: 600px; */
     transition: 250ms all;
 }
 .hero_img:hover{
